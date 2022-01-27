@@ -1,0 +1,30 @@
+{
+  "name": "beepr",
+  "version": "1.0.0",
+  "description": "Bot to do Benkyou!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arzvaak/Beepr.git"
+  },
+  "author": "Sussybakas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arzvaak/Beepr/issues"
+  },
+  "homepage": "https://github.com/arzvaak/Beepr#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "ascii-table": "^0.0.9",
+    "chalk": "^5.0.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^14.3.2",
+    "enmap": "^5.8.7",
+    "glob": "^7.2.0"
+  }
+}
